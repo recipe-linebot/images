@@ -1,1 +1,1 @@
-# paging-images
+# recipe-linebot/images
